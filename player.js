@@ -20,7 +20,7 @@ class Player
   jump()
 {
   if(this.y == height - this.size)
-  this.velocityY=-25;
+  this.velocityY=-35;
 }
 
 move()
